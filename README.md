@@ -4,7 +4,7 @@
 
 First, clone the GitHub repository to your local machine:
 
-git clone <https://github.com/johndoe/language-translator.git>
+git clone <https://github.com/ROHANDAS2003/language-translator>
 
 ### ****2\. Navigate to the Project Directory****
 
