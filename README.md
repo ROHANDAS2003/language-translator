@@ -19,13 +19,9 @@ Ensure that the project contains the following files:
 language-translator/
 
 │
-
 ├── language_mapping.py # File containing language mappings
-
 ├── translator.py # The main Python script that handles translation
-
 ├── config.txt # Configuration file for language codes or settings
-
 └── README.md # Instructions on how to run the project
 
 ### ****4\. Install Required Dependencies****
